@@ -1,0 +1,5 @@
+﻿*.pcapng
+*.pcap
+!pcaps/baseline_clean.pcap
+!pcaps/suspicious_lab.pcap
+notes.md
